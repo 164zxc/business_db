@@ -1,0 +1,39 @@
+/* #調整按鈕文字高度 */
+.stButtonGroup > .st-emotion-cache-ue6h4q {
+    min-height: 0px;
+}
+
+/* #調整背景顏色 */
+.st-emotion-cache-1jicfl2{
+    background-color:#f4f7fc ;
+}
+.st-emotion-cache-12fmjuu{
+    background-color:#f4f7fc ;
+}
+.st-emotion-cache-1ibsh2c{
+    background-color:#f4f7fc ;
+}
+.body {
+    line-height: 0;
+}
+
+.js-plotly-plot .plotly, .js-plotly-plot .plotly div{
+    margin-top: -10px;
+}
+.js-plotly-plot .plotly {
+    margin-bottom: 7.5px;
+}
+.main-svg{
+    border-radius: 10px;
+}
+
+.stMetric{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 0.5px rgba(143, 139, 139, 0.2)
+}
+
+h6{
+    line-height: 0.8;
+}
